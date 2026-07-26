@@ -132,7 +132,6 @@ AI 챗봇 카드 안내
 
 ---
 
-## 프로젝트 보고서 및 발표자료
+## 프로젝트 보고서
 
 [최종 보고서](https://drive.google.com/file/d/13p_4iO5GwN-gU1dv0EqyotF48-BJtDcC/view?usp=sharing)  
-[발표 자료](https://canva.link/s4c4zdfyxeipdk0)

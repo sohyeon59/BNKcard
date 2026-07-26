@@ -108,6 +108,8 @@ AI 챗봇 카드 안내
 | 소비패턴·AI | USER_SPENDING_PATTERNS, AI_CHAT_LOGS |
 | 검색 | SEARCH_KEYWORDS, SEARCH_LOGS |
 | 관리자 | ADMIN_USERS, ADMIN_ROLES |
+| 카드 발급 | CREDIT_CARD_APPLICATIONS, CHECK_CARD_APPLICATIONS, USER_CARDS |
+| 카드 심사 | HOMETAX_INCOME, MYDATA_CREDIT_PROFILE, MYDATA_FIRST_SCREENING, MYDATA_ID_VERIFICATIONS |
 
 ---
 
@@ -115,10 +117,10 @@ AI 챗봇 카드 안내
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 김현길 | 약관 / 상품 페이지 | [@gusrlf114](https://github.com/gusrlf114) |
+| 김현길 | 약관 / 상품 페이지 / 카드 심사 / 관리자 대시보드 | [@gusrlf114](https://github.com/gusrlf114) |
 | 김성룡 | 인프라 / 형상관리 / AI | [@gnoyr](https://github.com/gnoyr) |
-| 박소현 | 카드 등록 /  결재  / 관리 | [@sohyeon59](https://github.com/sohyeon59) |
-| 허윤 | DB / 회원 / 인증 | [@heoheoyun](https://github.com/heoheoyun) |
+| 박소현 | 카드 등록 /  결재  / 관리 / 카드 발급 및 심사 | [@sohyeon59](https://github.com/sohyeon59) |
+| 허윤 | DB / 회원 / 인증 / 알림 | [@heoheoyun](https://github.com/heoheoyun) |
 
 ---
 

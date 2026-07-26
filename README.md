@@ -32,7 +32,8 @@ www.bnkcard.store
 BNK 부산은행의 금융 상품(카드) 플랫폼으로, 사용자 회원 인증부터 카드 상품 조회·검색·비교  
 관리자 카드 등록 신청·결재·사용자 노출 프로세스 설계  
 소비패턴 기반 맞춤형 카드 추천 기능 제공  
-AI 챗봇 카드 안내
+AI 챗봇 카드 안내  
+사용자 카드 발급 신청 및 심사
 
 ---
 
@@ -48,6 +49,7 @@ AI 챗봇 카드 안내
 - 카드 목록 조회 / 상세 조회 / 조회수 집계
 - 카드 비교(연회비, 카드 유형, 혜택 수, 주요 혜택)
 - 비회원 → 조회수 기반, 회원 → 소비패턴 기반 TOP3 맞춤 추천
+- 카드 발급
 
 #### AI 추천 · 소비패턴 분석
 - 카테고리별 월 소비금액 입력 및 자동 분석
@@ -74,7 +76,7 @@ AI 챗봇 카드 안내
 | 분류 | 기술 |
 |------|------|
 | Backend | Java 21, Spring Boot 4.x |
-| Frontend | HTML5, CSS3 |
+| Frontend | HTML5, CSS3, Flutter |
 | Database | Oracle Database, Redis |
 | ORM | MyBatis Framework |
 | 인증·보안 | Spring Security, JWT |
@@ -84,7 +86,7 @@ AI 챗봇 카드 안내
 
 ---
 
-## 시스템 아키텍처
+## 시스템 아키텍처(WEB)
 
 <img width="903" height="457" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/6bd0fdd1-89bb-4a5c-b291-d540c9fef0ad" />
 
